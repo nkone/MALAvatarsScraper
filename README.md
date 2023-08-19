@@ -30,5 +30,6 @@ python3 scrape.py
 ```
 
 Sample outputs (see Horimiya folder):
+
 ![Remi](Horimiya/Horimiya_Remi_Ayasaki.jpg)
-![Remi](Horimiya/Horimiya_Kyouko_Hori.jpg)
+![Hori](Horimiya/Horimiya_Kyouko_Hori.jpg)
